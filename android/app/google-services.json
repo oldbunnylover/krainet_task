@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1014439239877",
+    "project_id": "krainet-task-93d29",
+    "storage_bucket": "krainet-task-93d29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014439239877:android:c9f00dd35360285f6810ac",
+        "android_client_info": {
+          "package_name": "com.example.krainet_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014439239877-uos7rmt353fdnd3ejqigi6n51gpnnab3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_N5DyZY-xz5soe9z-sTqg3ftyYQ8ZAoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014439239877-uos7rmt353fdnd3ejqigi6n51gpnnab3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

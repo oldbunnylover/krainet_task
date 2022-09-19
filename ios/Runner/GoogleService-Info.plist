@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1014439239877-dfhqqc2718cluef59632gkkhdao5ad03.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1014439239877-dfhqqc2718cluef59632gkkhdao5ad03</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAsLTcxtjhadb5d2Y2aoY8-zjIFJGJACl0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1014439239877</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.krainetTask</string>
+	<key>PROJECT_ID</key>
+	<string>krainet-task-93d29</string>
+	<key>STORAGE_BUCKET</key>
+	<string>krainet-task-93d29.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1014439239877:ios:e12c04e727d9f2fb6810ac</string>
+</dict>
+</plist>
