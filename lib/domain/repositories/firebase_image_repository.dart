@@ -13,9 +13,12 @@ class FirebaseImageRepository implements IFirebaseImageRepository {
     final imageRef = storageRef.child(name);
     await imageRef.putData(imageBytes, SettableMetadata(contentType: 'image/jpeg'));
     final url = await imageRef.getDownloadURL();
-    await _images.doc(userId).set({
-      'url': FieldValue.arrayUnion([url])
-    });
+    await _images.doc(userId).set(
+      {
+        'url': FieldValue.arrayUnion([url])
+      },
+      SetOptions(merge: true),
+    );
     return url;
   }
 
